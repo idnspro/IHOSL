@@ -1,0 +1,2 @@
+# IHOSL
+Hospital Managemnet Script
